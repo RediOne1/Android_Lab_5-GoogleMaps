@@ -2,6 +2,7 @@
 Zadanie na laboratorium - Projektowanie Urządzeń mobilnych
 
 Aby narysować linię:
+
 1. należy wybrać `Marker` na mapie(dotykając go)
 2. dotknąć chmurkę(`InfoWindow`), nad markerem
 3. wybieramy drugi `Marker`
